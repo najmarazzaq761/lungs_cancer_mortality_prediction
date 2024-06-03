@@ -57,4 +57,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/yourusername/lung-cancer-mortality-prediction](https://github.com/najmarazzaq761/lung-cancer-mortality-prediction)
+Project Link: (https://github.com/najmarazzaq761/lung-cancer-mortality-prediction)
